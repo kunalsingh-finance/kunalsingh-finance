@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/headshot.png" alt="Kunal Singh" width="150" />
+</p>
+
 # Kunal Singh
 
 Finance + Data Analytics + Portfolio/Risk/Operations
